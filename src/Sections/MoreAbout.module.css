@@ -1,0 +1,29 @@
+.moreAbout {
+    background-color: var(--bg-color);
+    padding: 1rem 6rem;
+}
+
+.moreAbout h2 {
+    text-align: center;
+    margin-bottom: var(--bottom-margin);
+}
+
+.moreAbout p {
+    line-height: var(--line-height);
+    padding: 0.4rem;
+}
+
+@media screen and (max-width: 720px) {
+    .moreAbout {
+        margin-top: 2rem;
+        padding: 1rem 3.5rem;
+      }
+    
+      .moreAbout h2 {
+        text-align: center;
+      }
+    
+      .moreAbout p {
+        text-align: justify;
+      }
+}

@@ -28,3 +28,32 @@
     line-height: var(--line-height);
     padding: 0.3rem 0;
 }
+
+@media screen and (max-width: 720px) {
+    .hero {
+        margin-top: -5rem;
+        flex-direction: column;
+        gap: 0;
+      }
+    
+      .hero img {
+            height: 18.25rem;
+            width: 15rem;
+        }
+    
+      .bio {
+        margin-top: -3rem;
+        width: 20.5rem;
+      }
+}
+
+@media screen and (max-width: 420px) {
+    .hero img {
+        height: 37.5rem;
+        width: 23rem;
+      }
+    
+      .bio {
+        width: 18.3rem;
+      }
+}

@@ -5,7 +5,7 @@ import Skills from "./Sections/Skills";
 import Projects from "./Sections/Projects";
 import ContactMe from "./Sections/ContactMe";
 import Social from "./Sections/Social";
-import ScrollToTheTop from "./Sections/SrollToTheTop";
+import ScrollToTheTop from "./Sections/ScrollToTheTop";
 import Footer from "./Sections/Footer";
 
 function App() {
