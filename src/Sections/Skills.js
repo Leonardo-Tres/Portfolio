@@ -2,7 +2,6 @@ import classes from './Skills.module.css'
 import htmlImage from '../assets/html-5.svg'
 import cssImage from '../assets/css3.svg'
 import jsImage from '../assets/javascript.svg'
-import bootstrapImage from '../assets/bootstrap.svg'
 import reactImage from '../assets/react-native.svg'
 import gitImage from '../assets/git.svg'
 
@@ -32,12 +31,6 @@ const Skills = () => {
                 />
             </div>
             <div className={classes.secondSet}>
-                <img 
-                    src={bootstrapImage}
-                    alt='bootstrap'
-                    loading='lazy'
-                    className={[classes.icon, classes.iconCard].join(' ')}
-                />
                 <img 
                     src={reactImage}
                     alt='react'
