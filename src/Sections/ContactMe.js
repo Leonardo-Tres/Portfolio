@@ -5,7 +5,7 @@ const ContactMe = () => {
         <h2>Get in touch with me</h2>
         <div className={classes.contactFormContainer}>
             <div className={classes.contactForm}>
-                <form action="https://formspree.io/f/xyylngw" method='POST'>
+                <form action="https://formspree.io/f/xjvqwqad" method='POST'>
                     <div className={classes.formControl}>
                         <label for='name'>Name</label>
                         <input 
