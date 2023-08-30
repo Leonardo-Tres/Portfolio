@@ -1,6 +1,7 @@
 import classes from './ContactMe.module.css'
 
 const ContactMe = () => {
+
     return <section className={classes.contact} id='contact'>
         <h2>Get in touch with me</h2>
         <div className={classes.contactFormContainer}>

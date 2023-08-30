@@ -12,7 +12,7 @@ const HeroSection = () => {
         <h2>Hello, nice to meet you!</h2>
         <p>
           I'm Leonardo. Selftaught frontend web-developer. <br/>
-          If you have a project and you're looking for a professional web-developer to realize it, 
+          If you have a project and you are seeking a junior web-developer to assist you in its realization, <br/>
           check out my portfolio below.
         </p>
       </div>
